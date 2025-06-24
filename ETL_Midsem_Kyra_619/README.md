@@ -36,7 +36,8 @@ ETL Midterm Project – DSA2040A
 	v) VS Code (for development)
 
 4. How to Run the Project
-	(i) Clone or download this repository
+
+   	(i) Clone or download this repository
 
 	(ii) Make sure you have Python installed (3.8 or above is recommended)
 
